@@ -1,9 +1,5 @@
 # Firebase Auth React App
 
-A simple Firebase authentication app using React (Vite).
-
-# Firebase Auth React App
-
 This is a simple authentication app built with **React**, **Vite**, and **Firebase Authentication**. It supports:
 
 - Email/password signup and login
